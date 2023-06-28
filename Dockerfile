@@ -8,4 +8,4 @@ RUN curl -sSfL https://github.com/comstrek/air/blob/master/install.sh | sh -s --
 
 # Run the air command in the directory where our code will live
 WORKDIR /opt/app/api
-#CMD ["air"]
+
